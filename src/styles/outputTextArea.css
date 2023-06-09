@@ -1,0 +1,40 @@
+.output {
+    max-width: 1000px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.5);
+}
+
+.outputArea {
+    border: 1px solid black;
+    box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.5);
+    padding: 0 10px;
+    max-width: 1000px;
+}
+
+.outputArea img {
+    width: 100%;
+}
+
+.outputArea code {
+    display: inline-block;
+    background-color: #fff;
+}
+
+.outputArea table {
+    border-collapse: collapse;
+}
+
+.outputArea table th, td {
+    border: 1px solid black;
+    padding: 2px 4px;
+}
+
+.outputArea h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+
+.outputArea h2 {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
